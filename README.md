@@ -1,5 +1,6 @@
-# MSPowerBI
-## Microsoft Power BI Data Analyst Professional Certificate
+# MSPOWERBI
+
+## Microsoft Power BI Data Analyst Professional Certificate (8 course series)
 
 Business Intelligence analysts are highly sought after as more organizations rely on data-driven decision-making. Microsoft Power BI is the leading data analytics, business intelligence, and reporting tool in the field, used by 97% of Fortune 500 companies to make decisions based on data-driven insights and analytics.1 Prepare for a new career in this high-growth field with professional training from Microsoft — an industry-recognized leader in data analytics and business intelligence.
 
